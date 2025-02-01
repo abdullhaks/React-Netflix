@@ -1,5 +1,5 @@
 import { useRef, useEffect, useState } from "react";
-import "./titleCard.css";
+import "./titlecard.css";
 // import cards_data from "../../assets/cards/Cards_data";
 import { Link } from 'react-router-dom';
 
